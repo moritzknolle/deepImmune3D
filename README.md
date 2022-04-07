@@ -1,5 +1,5 @@
 # deepImmune3D
-- predict melanoma tumor immune status from confocal, volumentric immunofluorescence microscopy images
+- predict melanoma tumour immune status from confocal, volumetric immunofluorescence microscopy images
 - model interpretability with occlusion sensitivity and gradient-based attribution maps (smoothGrad)
 
 ## Prediction Pipeline overview
