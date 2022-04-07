@@ -7,4 +7,4 @@
 
 
 ### install required packages
-simply run: 'conda env create --file env.yml'
+simply run: `conda env create --file env.yml`
