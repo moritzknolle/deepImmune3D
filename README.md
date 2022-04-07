@@ -4,3 +4,7 @@
 
 ## Prediction Pipeline overview
 ![Alt text](pipeline.png?raw=true "Title")
+
+
+### install required packages
+simply run: 'conda env create --file env.yml'
