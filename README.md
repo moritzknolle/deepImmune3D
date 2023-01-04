@@ -10,4 +10,4 @@
 simply run: `conda env create --file env.yml`
 
 ### example workflow
-for an example workflow see `example.ipynb
+for an example workflow see `example.ipynb`
