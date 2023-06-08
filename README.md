@@ -5,10 +5,10 @@
 ## Prediction Pipeline overview
 ![Alt text](pipeline.png?raw=true "Title")
 
-### install required packages
+### Install required packages
 simply run: `conda env create --file env.yml`
 
-### example workflow
+### Example workflow
 For an example workflow on how to train a deep learning model on volumetric images and subsequently obtain interpretability maps see `example.ipynb`. Note that running the same workflow on the original, high-resolution con-focal microscopy images necessitates a GPU with > 40 GB of memory.
 
 ### Linear model for immune status prediction
