@@ -1,4 +1,4 @@
-# deepImmune3D
+# deepImmune3D [![DOI](https://zenodo.org/badge/478273214.svg)](https://zenodo.org/badge/latestdoi/478273214)
 - predict melanoma tumour immune status from confocal, volumetric immunofluorescence microscopy images
 - model interpretability with occlusion sensitivity and gradient-based attribution maps (smoothGrad)
 
